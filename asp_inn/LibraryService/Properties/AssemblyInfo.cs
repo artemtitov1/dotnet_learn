@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ASP_INN_Client")]
+[assembly: AssemblyTitle("LibraryService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ASP_INN_Client")]
+[assembly: AssemblyProduct("LibraryService")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("43232659-0ea9-40a5-8436-41fdf7223a16")]
+[assembly: Guid("e58740fa-65a1-4a3d-9146-9fd3e27a97f8")]
 
 // Version information for an assembly consists of the following four values:
 //
